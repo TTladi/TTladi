@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TTladi
-- 👀 I’m interested in Web Development / Data Analysis job
+- 👋 Hi, I’m Teboho Tladi, currently pursuing my Full Stack Web Development
+- 👀 I’m interested in MERN Stack projects
 - 🌱 I’m currently learning React Framework 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Development / Data Analysis projects
 - 📫 How to reach me ...
 
 <!---
