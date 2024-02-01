@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **React**
 
-💬 Ask me about **Python, SQL, JavaScript... or anythin [here](https://github.com/TTladi/)**
+💬 Ask me about **Python, SQL, JavaScript... [here](https://github.com/TTladi/)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Until 2010, carrier pigeons were faster than the internet**
 
  </div>
  
